@@ -1,4 +1,5 @@
-📰 News App
+📰 NewsNest
+
 Stay informed with the latest news from around the world! This app delivers real-time updates and a seamless browsing experience.
 
 🚀 Features
@@ -35,8 +36,6 @@ Copy code
 npm start  
 Open your browser and visit http://localhost:3000.
 
-📸 Screenshots
-Add some screenshots of the app interface here.
 
 🌟 Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
